@@ -1,0 +1,51 @@
+[
+  {
+    "accountId": "Twin1",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-23T01:37:19.126Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Twin1Host",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-23T02:47:59.231Z",
+    "favorite": false
+  },
+  {
+    "accountId": "Twin2",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-23T03:06:37.838Z",
+    "favorite": false
+  },
+  {
+    "accountId": "witorwitor420",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-23T03:30:15.114Z",
+    "favorite": false
+  },
+  {
+    "accountId": "witorwitor69",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-23T04:47:29.832Z",
+    "favorite": false
+  },
+  {
+    "accountId": "bigGregStan",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-23T05:22:11.242Z",
+    "favorite": false
+  },
+  {
+    "accountId": "bultiplayer",
+    "status": "ACCEPTED",
+    "direction": "OUTBOUND",
+    "created": "2022-06-23T05:33:34.587Z",
+    "favorite": false
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "friends": [
+    {
+      "accountId": "Twin1",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-23T01:37:19.126Z"
+    },
+    {
+      "accountId": "Twin1Host",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-23T02:47:59.231Z"
+    },
+    {
+      "accountId": "Twin2",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-23T03:06:37.838Z"
+    },
+    {
+      "accountId": "witorwitor420",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-23T03:30:15.114Z"
+    },
+    {
+      "accountId": "witorwitor69",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-23T04:47:29.832Z"
+    },
+    {
+      "accountId": "bigGregStan",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-23T05:22:11.242Z"
+    },
+    {
+      "accountId": "bultiplayer",
+      "groups": [],
+      "mutual": 0,
+      "alias": "",
+      "note": "",
+      "favorite": false,
+      "created": "2022-06-23T05:33:34.587Z"
+    }
+  ],
+  "incoming": [],
+  "outgoing": [],
+  "suggested": [],
+  "blocklist": [],
+  "settings": {
+    "acceptInvites": "public"
+  }
+}
